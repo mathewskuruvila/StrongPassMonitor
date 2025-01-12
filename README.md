@@ -1,7 +1,7 @@
 # StrongPassMonitor
 ## Demo
 
-![alt text](image.png)
+![demo](image.png)
 
 ---
 Welcome to **StrongPassMonitor**, a Python-based tool to assess the strength of your passwords and check if they have been compromised using the [Have I Been Pwned API](https://haveibeenpwned.com/). This tool aims to help users enhance their password security by providing actionable feedback and ensuring safer online practices.
